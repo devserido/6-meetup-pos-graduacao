@@ -7,18 +7,22 @@
 
 ## :round_pushpin: Onde aconteceu?
 
-- No [Google Meet](Apresentação Meetup - Pós Graduação.pdf)
+- No Google Meet
 
 ## :speech_balloon: O que foi abordado?
 
-- O que é Inteligência Artificial
-- Onde ela está no nosso dia-a-dia
-- Quais áreas englobam a IA
-- Qual o elemento principal da programação de uma IA
+Sobre pós-graduação:
+- O que é?
+- Como é?
+- Por que eu faço?
+- Para quem é?
+
+Também foi abordado dúvidas relacionadas ao tema enviadas previamente.
+
 
 ## :heavy_check_mark: O que foi produzido?
 
-- [Slides](Apresentação Meetup - Pós Graduação.pdf)
+- [Slides](media/slide.pdf)
 - [Gravação](https://drive.google.com/file/d/1xMdXemZ-vpPa9vpUA93qhhIabx_M9R9E/view?usp=sharing)
 - [Roteiro](https://docs.google.com/document/d/1spE2qxyl8QLpdcXkNw0bTc3_xScjVPDYENvdyqfB0q8/edit?usp=sharing)
 
